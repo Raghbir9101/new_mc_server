@@ -714,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-21 20:25:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-21 20:08:49 +0000"
@@ -765,6 +771,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-02-21 18:46:04 +0000",
+      "minecraft:creeper": "2025-02-21 20:24:00 +0000",
       "minecraft:husk": "2025-02-21 18:45:58 +0000"
     },
     "done": false
