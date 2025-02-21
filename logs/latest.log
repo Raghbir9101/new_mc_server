@@ -384,3 +384,9 @@ java.io.IOException: Connection timed out
 [19:56:30] [Thread-8/INFO]: send keep alive
 [19:57:41] [Server thread/INFO]: piyushnyt has made the advancement [Best Friends Forever]
 [20:00:31] [Thread-8/INFO]: send keep alive
+[20:04:07] [Server thread/INFO]: piyushnyt tried to swim in lava
+[20:04:31] [Thread-8/INFO]: send keep alive
+[20:04:34] [Server thread/INFO]: Villager EntityVillager['Farmer'/16873, l='ServerLevel[world]', x=684.73, y=64.94, z=-467.96] died, message: 'Farmer was slain by Zombie'
+[20:04:42] [Server thread/INFO]: piyushnyt was slain by Spider
+[20:05:02] [Server thread/INFO]: Villager EntityVillager['Nitwit'/16779, l='ServerLevel[world]', x=658.10, y=64.00, z=-477.01] died, message: 'Nitwit was slain by Zombie'
+[20:05:13] [Server thread/INFO]: piyushnyt was shot by Skeleton
