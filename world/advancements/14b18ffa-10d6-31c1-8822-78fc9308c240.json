@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-21 20:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-21 18:53:10 +0000"
@@ -495,6 +501,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-02-21 20:06:05 +0000",
       "minecraft:beach": "2025-02-21 20:08:08 +0000",
+      "minecraft:forest": "2025-02-21 20:18:44 +0000",
       "minecraft:river": "2025-02-21 20:06:24 +0000",
       "minecraft:stony_shore": "2025-02-21 18:46:24 +0000",
       "minecraft:snowy_plains": "2025-02-21 18:54:22 +0000",
@@ -633,6 +640,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 18:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-21 20:18:46 +0000"
     },
     "done": true
   },
