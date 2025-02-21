@@ -349,3 +349,4 @@ java.io.IOException: Connection timed out
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [18:56:23] [Server thread/INFO]: Almighty has made the advancement [Getting an Upgrade]
 [18:56:25] [Thread-8/INFO]: send keep alive
+[18:56:48] [Server thread/INFO]: piyushnyt was shot by Skeleton
