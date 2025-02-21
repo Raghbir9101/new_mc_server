@@ -545,3 +545,10 @@ java.io.IOException: Connection timed out
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[22:41:52] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[22:41:52] [Server thread/INFO]: piyushnyt lost connection: Disconnected
+[22:41:52] [Server thread/INFO]: piyushnyt left the game
+[22:42:33] [Thread-8/INFO]: send keep alive
+[22:46:34] [Thread-8/INFO]: send keep alive
+[22:49:07] [Server thread/INFO]: Villager EntityVillager['Villager'/27813, l='ServerLevel[world]', x=356.72, y=65.00, z=-914.37] died, message: 'Villager suffocated in a wall'
+[22:49:09] [Server thread/INFO]: Villager EntityVillager['Villager'/27855, l='ServerLevel[world]', x=343.28, y=65.00, z=-943.63] died, message: 'Villager suffocated in a wall'
