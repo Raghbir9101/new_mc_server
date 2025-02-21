@@ -800,6 +800,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-02-21 20:54:23 +0000",
       "minecraft:zombie": "2025-02-21 18:46:04 +0000",
       "minecraft:creeper": "2025-02-21 20:24:00 +0000",
       "minecraft:husk": "2025-02-21 18:45:58 +0000"
@@ -869,6 +870,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_the_recipe": "2025-02-21 20:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-21 20:55:06 +0000"
     },
     "done": true
   },
@@ -1014,6 +1021,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-21 19:43:52 +0000",
       "rotten_flesh": "2025-02-21 18:51:32 +0000",
+      "cooked_mutton": "2025-02-21 20:56:01 +0000",
       "cooked_salmon": "2025-02-21 19:33:41 +0000"
     },
     "done": false
