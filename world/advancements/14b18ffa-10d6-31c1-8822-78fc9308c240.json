@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-21 19:02:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-21 18:53:10 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-21 18:58:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 18:48:04 +0000"
@@ -290,6 +302,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2025-02-21 18:46:05 +0000",
+      "minecraft:grove": "2025-02-21 19:01:02 +0000",
       "minecraft:stony_shore": "2025-02-21 18:46:24 +0000",
       "minecraft:snowy_plains": "2025-02-21 18:54:22 +0000",
       "minecraft:savanna": "2025-02-21 18:44:59 +0000"
@@ -368,6 +381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-21 19:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-21 18:54:44 +0000"
@@ -389,6 +408,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-02-21 18:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-21 19:02:21 +0000"
     },
     "done": true
   },
