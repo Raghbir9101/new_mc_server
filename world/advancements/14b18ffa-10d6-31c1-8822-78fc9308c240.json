@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 19:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-02-21 18:56:23 +0000"
@@ -41,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 18:48:04 +0000"
@@ -50,6 +62,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-21 18:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
     },
     "done": true
   },
@@ -191,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-21 18:56:56 +0000"
@@ -233,9 +257,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-21 18:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
     },
     "done": true
   },
@@ -248,6 +284,18 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-21 18:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "has_the_recipe": "2025-02-21 19:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 19:16:37 +0000"
     },
     "done": true
   },
@@ -305,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 18:48:04 +0000"
@@ -326,12 +380,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2025-02-21 18:46:05 +0000",
+      "minecraft:frozen_river": "2025-02-21 19:16:50 +0000",
       "minecraft:grove": "2025-02-21 19:01:02 +0000",
       "minecraft:stony_shore": "2025-02-21 18:46:24 +0000",
       "minecraft:snowy_plains": "2025-02-21 18:54:22 +0000",
+      "minecraft:snowy_taiga": "2025-02-21 19:16:56 +0000",
       "minecraft:savanna": "2025-02-21 18:44:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-02-21 19:16:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -357,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 19:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-02-21 18:48:26 +0000"
@@ -375,9 +443,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-21 18:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 19:16:37 +0000"
     },
     "done": true
   },
@@ -390,6 +470,24 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-21 18:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-21 19:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 19:16:37 +0000"
     },
     "done": true
   },
@@ -438,6 +536,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-21 19:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 19:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 19:16:37 +0000"
     },
     "done": true
   },
