@@ -556,3 +556,7 @@ java.io.IOException: Connection timed out
 [22:53:09] [Server thread/INFO]: Almighty was blown up by Creeper
 [22:54:37] [Thread-8/INFO]: send keep alive
 [22:58:41] [Thread-8/INFO]: send keep alive
+[23:02:14] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[23:02:14] [Server thread/INFO]: Almighty lost connection: Disconnected
+[23:02:14] [Server thread/INFO]: Almighty left the game
+[23:02:44] [Thread-8/INFO]: send keep alive
