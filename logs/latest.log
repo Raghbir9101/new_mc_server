@@ -194,3 +194,8 @@
 [23:12:44] [User Authenticator #1/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
 [23:12:45] [Server thread/INFO]: Almighty joined the game
 [23:12:45] [Server thread/INFO]: Almighty[/127.0.0.1:44340] logged in with entity id 31 at ([world]649.3139148443295, 163.0, 78.82868645029954)
+[23:16:24] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[23:16:24] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[23:16:24] [Server thread/INFO]: Almighty lost connection: Disconnected
+[23:16:24] [Server thread/INFO]: Almighty left the game
+[23:16:29] [Thread-10/INFO]: send keep alive
