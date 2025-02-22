@@ -717,3 +717,4 @@ java.net.SocketException: Connection reset
 [16:26:23] [User Authenticator #13/INFO]: UUID of player piyushnyt is 6435d630-7c0c-3d3b-970a-257e45f0e736
 [16:26:24] [Server thread/INFO]: piyushnyt joined the game
 [16:26:24] [Server thread/INFO]: piyushnyt[/127.0.0.1:44016] logged in with entity id 94395 at ([world]704.3875956630965, 66.0, -122.37309348745049)
+[16:29:05] [Thread-8/INFO]: send keep alive
