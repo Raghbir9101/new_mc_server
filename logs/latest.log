@@ -856,3 +856,5 @@
 [20:06:12] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
 [20:07:43] [Thread-6/INFO]: send keep alive
 [20:11:43] [Thread-6/INFO]: send keep alive
+[20:15:44] [Thread-6/INFO]: send keep alive
+[20:15:51] [Server thread/INFO]: Villager EntityVillager['Villager'/14054, l='ServerLevel[world]', x=759.88, y=72.00, z=-169.89] died, message: 'Villager was slain by Zombie'
