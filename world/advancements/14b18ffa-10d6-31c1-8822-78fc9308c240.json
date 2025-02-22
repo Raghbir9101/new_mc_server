@@ -439,7 +439,8 @@
       "minecraft:skeleton": "2025-02-21 20:55:58 +0000",
       "minecraft:phantom": "2025-02-22 19:57:34 +0000",
       "minecraft:spider": "2025-02-22 13:43:16 +0000",
-      "minecraft:zombie": "2025-02-21 19:04:07 +0000"
+      "minecraft:zombie": "2025-02-21 19:04:07 +0000",
+      "minecraft:creeper": "2025-02-22 20:24:02 +0000"
     },
     "done": false
   },
@@ -1780,6 +1781,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-22 15:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-22 20:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-22 20:21:44 +0000"
     },
     "done": true
   },
