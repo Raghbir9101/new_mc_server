@@ -700,3 +700,7 @@ java.net.SocketException: Connection reset
 [16:13:02] [Thread-8/INFO]: send keep alive
 [16:17:02] [Thread-8/INFO]: send keep alive
 [16:21:02] [Thread-8/INFO]: send keep alive
+[16:25:03] [Thread-8/INFO]: send keep alive
+[16:25:13] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[16:25:13] [Server thread/INFO]: Almighty lost connection: Disconnected
+[16:25:13] [Server thread/INFO]: Almighty left the game
