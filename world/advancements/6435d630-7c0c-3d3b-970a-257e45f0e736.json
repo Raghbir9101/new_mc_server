@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-02-21 19:33:34 +0000",
       "minecraft:beach": "2025-02-21 19:44:16 +0000",
+      "minecraft:forest": "2025-02-22 18:51:24 +0000",
       "minecraft:river": "2025-02-21 19:49:26 +0000",
       "minecraft:stony_shore": "2025-02-21 18:54:48 +0000",
       "minecraft:snowy_plains": "2025-02-21 18:54:47 +0000",
@@ -2836,6 +2837,18 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-02-22 14:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 18:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-22 18:43:44 +0000"
     },
     "done": true
   },
