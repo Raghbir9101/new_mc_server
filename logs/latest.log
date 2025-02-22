@@ -693,3 +693,5 @@ java.net.SocketException: Connection reset
 [15:52:14] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [15:52:14] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [15:52:59] [Thread-8/INFO]: send keep alive
+[15:57:00] [Thread-8/INFO]: send keep alive
+[16:01:01] [Thread-8/INFO]: send keep alive
