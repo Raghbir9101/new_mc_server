@@ -596,3 +596,7 @@ java.net.SocketException: Connection reset
 [14:54:30] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [14:54:30] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [14:56:45] [Thread-8/INFO]: send keep alive
+[15:00:46] [Thread-8/INFO]: send keep alive
+[15:03:52] [Server thread/INFO]: JhaantukeE was shot by Skeleton
+[15:04:47] [Thread-8/INFO]: send keep alive
+[15:06:41] [Server thread/INFO]: JhaantukeE was slain by Zombie
