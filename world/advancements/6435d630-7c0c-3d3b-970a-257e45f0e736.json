@@ -2790,15 +2790,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-02-22 14:49:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-22 14:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-22 14:49:36 +0000"
     },
     "done": true
   },

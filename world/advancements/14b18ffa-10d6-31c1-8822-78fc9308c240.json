@@ -1746,13 +1746,20 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-02-22 13:56:38 +0000"
+      "minecraft:cow": "2025-02-22 13:56:38 +0000",
+      "minecraft:sheep": "2025-02-22 15:48:23 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-02-22 13:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-22 15:47:57 +0000"
     },
     "done": true
   },

@@ -1460,9 +1460,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-22 15:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-22 14:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-22 15:32:59 +0000"
     },
     "done": true
   },
@@ -1487,6 +1499,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-22 15:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-22 15:32:58 +0000"
     },
     "done": true
   },
