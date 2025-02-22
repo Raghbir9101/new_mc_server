@@ -240,3 +240,27 @@ java.net.SocketException: Connection reset
 [13:00:05] [Server thread/INFO]: Almighty lost connection: Disconnected
 [13:00:05] [Server thread/INFO]: Almighty left the game
 [13:00:16] [Thread-9/INFO]: send keep alive
+[13:01:57] [Thread-9/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=115.187.51.194:57065, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 115, -69, 51, -62, -34, -23, 79, -59, 13, -98, -85, 8, 103, -71, -54, -59, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 71, -98, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 29, 1, 4, 61, 64, 25, 6, -62, -124, -118, 111, 67, 116, 51, 48, 17], tunnelServerId=1, dataCenterId=28}
+[13:01:57] [Thread-9/INFO]: starting tcp tunnel for client
+[13:01:57] [Thread-9/INFO]: start connection to /209.25.143.2:43784 to claim client
+[13:01:57] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[13:01:57] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[13:01:57] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[13:01:57] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[13:01:57] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[13:01:57] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[13:01:57] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[13:02:00] [Thread-9/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=115.187.51.194:57070, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 115, -69, 51, -62, -34, -18, 20, 126, 73, 88, -85, 8, 103, -71, -54, -56, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 33, 88, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 17, 48, 116, -91, -15, 84, 95, 52, -89, 8, 64, 48, 54, 33, 15, -124], tunnelServerId=1, dataCenterId=28}
+[13:02:00] [Thread-9/INFO]: starting tcp tunnel for client
+[13:02:00] [Thread-9/INFO]: start connection to /209.25.143.2:43784 to claim client
+[13:02:00] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[13:02:00] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[13:02:00] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[13:02:00] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[13:02:00] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[13:02:00] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[13:02:00] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[13:02:00] [User Authenticator #4/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
+[13:02:01] [Server thread/INFO]: Almighty joined the game
+[13:02:01] [Server thread/INFO]: Almighty[/127.0.0.1:48818] logged in with entity id 1909 at ([world]250.0570078400891, 63.0, -219.1329364879415)
+[13:02:45] [Server thread/INFO]: Almighty was slain by Polar Bear
