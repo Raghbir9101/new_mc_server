@@ -397,3 +397,9 @@
 [15:10:08] [Server thread/INFO]: piyushnyt joined the game
 [15:10:08] [Server thread/INFO]: piyushnyt[/127.0.0.1:53400] logged in with entity id 22770 at ([world]722.1202719081706, 65.0, -82.53113189554027)
 [15:11:43] [Thread-8/INFO]: send keep alive
+[15:15:43] [Thread-8/INFO]: send keep alive
+[15:16:36] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
+[15:16:36] [Server thread/INFO]: JhaantukeE lost connection: Disconnected
+[15:16:36] [Server thread/INFO]: JhaantukeE left the game
+[15:19:44] [Thread-8/INFO]: send keep alive
+[15:23:44] [Thread-8/INFO]: send keep alive
