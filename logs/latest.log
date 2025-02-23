@@ -1,201 +1,253 @@
-[23:12:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:12:08] [ServerMain/INFO]: Loaded 1290 recipes
-[23:12:09] [Server thread/INFO]: Starting minecraft server version 1.21
-[23:12:09] [Server thread/INFO]: Loading properties
-[23:12:09] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[23:12:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:12:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:12:10] [Server thread/INFO]: Debug logging is disabled
-[23:12:10] [Server thread/INFO]: Default game type: SURVIVAL
-[23:12:10] [Server thread/INFO]: Generating keypair
-[23:12:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:12:10] [Server thread/INFO]: Using epoll channel type
-[23:12:11] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.0.1
-[23:12:11] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.1 is now loaded. Registering protocol transformers and injecting...
-[23:12:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[23:12:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[23:12:13] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[23:12:13] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[23:12:15] [Server thread/INFO]: [playit-gg] Loading playit-gg v0.1.4
-[23:12:15] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.0.1
-[23:12:15] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.6.0-SNAPSHOT
-[23:12:17] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[23:12:17] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[23:12:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:12:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:12:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:12:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:12:17] [Server thread/INFO]: Preparing level "world"
-[23:12:17] [Server thread/INFO]: -------- World Settings For [world] --------
-[23:12:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Potato Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Vine Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[23:12:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[23:12:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[23:12:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[23:12:17] [Server thread/INFO]: Mob Spawn Range: 6
-[23:12:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[23:12:17] [Server thread/INFO]: Max TNT Explosions: 100
-[23:12:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[23:12:17] [Server thread/INFO]: View Distance: 32
-[23:12:17] [Server thread/INFO]: Simulation Distance: 32
-[23:12:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[23:12:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[23:12:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[23:12:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[23:12:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[23:12:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[23:12:17] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[23:12:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Potato Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Vine Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[23:12:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[23:12:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[23:12:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[23:12:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[23:12:17] [Server thread/INFO]: Mob Spawn Range: 6
-[23:12:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[23:12:17] [Server thread/INFO]: Max TNT Explosions: 100
-[23:12:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[23:12:17] [Server thread/INFO]: View Distance: 32
-[23:12:17] [Server thread/INFO]: Simulation Distance: 32
-[23:12:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[23:12:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[23:12:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[23:12:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[23:12:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[23:12:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[23:12:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[23:12:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Cane Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Melon Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Potato Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Vine Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[23:12:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[23:12:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[23:12:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[23:12:20] [Server thread/INFO]: Experience Merge Radius: 3.0
-[23:12:20] [Server thread/INFO]: Mob Spawn Range: 6
-[23:12:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[23:12:20] [Server thread/INFO]: Max TNT Explosions: 100
-[23:12:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[23:12:20] [Server thread/INFO]: View Distance: 32
-[23:12:20] [Server thread/INFO]: Simulation Distance: 32
-[23:12:20] [Server thread/INFO]: Item Despawn Rate: 6000
-[23:12:20] [Server thread/INFO]: Item Merge Radius: 2.5
-[23:12:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[23:12:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[23:12:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[23:12:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[23:12:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:12:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:12:20] [Server thread/INFO]: Time elapsed: 622 ms
-[23:12:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:12:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:12:20] [Server thread/INFO]: Time elapsed: 214 ms
-[23:12:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:12:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:12:21] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[23:12:21] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[23:12:22] [Server thread/INFO]: Time elapsed: 1387 ms
-[23:12:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
-[23:12:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
-[23:12:22] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
-[23:12:23] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.1
-[23:12:23] [Thread-10/INFO]: secret key found, checking
-[23:12:23] [Thread-10/INFO]: check secret
-[23:12:23] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[23:12:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:12:23] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[23:12:23] [Server thread/INFO]: [Geyser-Spigot] 
-[23:12:23] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b753 (git-master-da6e2f6)
-[23:12:23] [Server thread/INFO]: [Geyser-Spigot] 
-[23:12:23] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[23:12:25] [Thread-10/INFO]: found minecraft java tunnel: listed-aqua.joinmc.link
-[23:12:25] [Thread-10/INFO]: keys and tunnel setup
-[23:12:25] [Thread-10/INFO]: playit.gg: tunnel setup
-[23:12:25] [Thread-10/INFO]: playit.gg: listed-aqua.joinmc.link
-[23:12:26] [Thread-10/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
-[23:12:26] [Thread-10/INFO]: request queued, waiting 1 second before resend
-[23:12:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[23:12:31] [Server thread/INFO]: [Geyser-Spigot] Done (7.174s)! Run /geyser help for help!
-[23:12:31] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] §aThere's a new Geyser update available to support Bedrock version 1.21.60. Download it here: §9§nhttps://geysermc.org/download
-[23:12:31] [Server thread/INFO]: Done (14.187s)! For help, type "help"
-[23:12:31] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[23:12:31] [Server thread/WARN]: [Geyser-Spigot] You are using an outdated version of ViaVersion; please download the newest version from https://ci.viaversion.com/job/ViaVersion/
-[23:12:31] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 5.0.1
-[23:12:40] [Thread-10/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=115.187.51.194:64218, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 115, -69, 51, -62, -6, -38, -81, -76, 73, 34, -85, 8, 103, -70, 89, -24, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 29, 34, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -40, 90, 25, -46, 98, 119, 72, -99, 27, -23, 116, -44, 93, 79, 13, -112], tunnelServerId=1, dataCenterId=28}
-[23:12:40] [Thread-10/INFO]: starting tcp tunnel for client
-[23:12:40] [Thread-10/INFO]: start connection to /209.25.143.2:43784 to claim client
-[23:12:40] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
-[23:12:40] [nioEventLoopGroup-2-1/INFO]: claim token sent
-[23:12:40] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
-[23:12:40] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
-[23:12:40] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
-[23:12:40] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
-[23:12:40] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
-[23:12:44] [Thread-10/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=115.187.51.194:64225, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 115, -69, 51, -62, -6, -31, 8, -94, -33, -108, -85, 8, 103, -70, 89, -20, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, -78, -108, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 44, 99, 0, 124, -19, -50, 9, -56, 114, -67, -124, 12, 62, 85, 57, 121], tunnelServerId=1, dataCenterId=28}
-[23:12:44] [Thread-10/INFO]: starting tcp tunnel for client
-[23:12:44] [Thread-10/INFO]: start connection to /209.25.143.2:43784 to claim client
-[23:12:44] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
-[23:12:44] [nioEventLoopGroup-2-3/INFO]: claim token sent
-[23:12:44] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
-[23:12:44] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
-[23:12:44] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
-[23:12:44] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
-[23:12:44] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
-[23:12:44] [User Authenticator #1/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
-[23:12:45] [Server thread/INFO]: Almighty joined the game
-[23:12:45] [Server thread/INFO]: Almighty[/127.0.0.1:44340] logged in with entity id 31 at ([world]649.3139148443295, 163.0, 78.82868645029954)
-[23:16:24] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
-[23:16:24] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
-[23:16:24] [Server thread/INFO]: Almighty lost connection: Disconnected
-[23:16:24] [Server thread/INFO]: Almighty left the game
-[23:16:29] [Thread-10/INFO]: send keep alive
+[08:40:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:40:15] [ServerMain/INFO]: Loaded 1290 recipes
+[08:40:16] [Server thread/INFO]: Starting minecraft server version 1.21
+[08:40:16] [Server thread/INFO]: Loading properties
+[08:40:16] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[08:40:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:40:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:40:17] [Server thread/INFO]: Debug logging is disabled
+[08:40:17] [Server thread/INFO]: Default game type: SURVIVAL
+[08:40:17] [Server thread/INFO]: Generating keypair
+[08:40:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:40:17] [Server thread/INFO]: Using epoll channel type
+[08:40:17] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.0.1
+[08:40:17] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.1 is now loaded. Registering protocol transformers and injecting...
+[08:40:18] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[08:40:18] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[08:40:19] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[08:40:19] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[08:40:19] [Server thread/INFO]: [playit-gg] Loading playit-gg v0.1.4
+[08:40:19] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.0.1
+[08:40:19] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.6.0-SNAPSHOT
+[08:40:21] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[08:40:21] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[08:40:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:40:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:40:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:40:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:40:21] [Server thread/INFO]: Preparing level "world"
+[08:40:21] [Server thread/INFO]: -------- World Settings For [world] --------
+[08:40:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:40:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Mob Spawn Range: 6
+[08:40:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:40:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:40:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:40:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:40:21] [Server thread/INFO]: Max TNT Explosions: 100
+[08:40:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:40:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:40:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:40:21] [Server thread/INFO]: View Distance: 32
+[08:40:21] [Server thread/INFO]: Simulation Distance: 32
+[08:40:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:40:21] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:40:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:40:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:40:21] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[08:40:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:40:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:40:21] [Server thread/INFO]: Mob Spawn Range: 6
+[08:40:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:40:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:40:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:40:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:40:21] [Server thread/INFO]: Max TNT Explosions: 100
+[08:40:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:40:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:40:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:40:21] [Server thread/INFO]: View Distance: 32
+[08:40:21] [Server thread/INFO]: Simulation Distance: 32
+[08:40:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:40:21] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:40:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:40:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:40:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[08:40:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:40:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:40:23] [Server thread/INFO]: Mob Spawn Range: 6
+[08:40:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:40:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:40:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:40:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:40:23] [Server thread/INFO]: Max TNT Explosions: 100
+[08:40:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:40:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:40:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:40:23] [Server thread/INFO]: View Distance: 32
+[08:40:23] [Server thread/INFO]: Simulation Distance: 32
+[08:40:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:40:23] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:40:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:40:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:40:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:40:23] [Server thread/INFO]: Time elapsed: 368 ms
+[08:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:40:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:40:24] [Server thread/INFO]: Time elapsed: 269 ms
+[08:40:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:40:24] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[08:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[08:40:25] [Server thread/INFO]: Time elapsed: 1049 ms
+[08:40:25] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
+[08:40:25] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[08:40:25] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[08:40:26] [Thread-8/INFO]: secret key found, checking
+[08:40:26] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.1
+[08:40:26] [Thread-8/INFO]: check secret
+[08:40:26] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[08:40:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:40:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:40:26] [Server thread/INFO]: [Geyser-Spigot] 
+[08:40:26] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b753 (git-master-da6e2f6)
+[08:40:26] [Server thread/INFO]: [Geyser-Spigot] 
+[08:40:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:40:27] [Thread-8/INFO]: found minecraft java tunnel: listed-aqua.joinmc.link
+[08:40:27] [Thread-8/INFO]: keys and tunnel setup
+[08:40:27] [Thread-8/INFO]: playit.gg: tunnel setup
+[08:40:27] [Thread-8/INFO]: playit.gg: listed-aqua.joinmc.link
+[08:40:28] [Thread-8/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[08:40:29] [Thread-8/INFO]: request queued, waiting 1 second before resend
+[08:40:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[08:40:31] [Server thread/INFO]: [Geyser-Spigot] Done (5.038s)! Run /geyser help for help!
+[08:40:31] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] §aThere's a new Geyser update available to support Bedrock version 1.21.60. Download it here: §9§nhttps://geysermc.org/download
+[08:40:31] [Server thread/INFO]: Done (10.565s)! For help, type "help"
+[08:40:31] [Server thread/WARN]: [Geyser-Spigot] You are using an outdated version of ViaVersion; please download the newest version from https://ci.viaversion.com/job/ViaVersion/
+[08:40:31] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[08:40:31] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 5.0.1
+[08:40:33] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:53025, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -49, 33, 66, -58, -82, -53, -85, 8, 103, -70, -33, 1, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 34, -53, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -112, 116, 90, 113, 115, 69, 84, -32, -30, 7, -105, 99, -51, -82, 80, 108], tunnelServerId=1, dataCenterId=28}
+[08:40:33] [Thread-8/INFO]: starting tcp tunnel for client
+[08:40:33] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[08:40:33] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[08:40:33] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:53049, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -49, 57, 125, -122, 111, 71, -85, 8, 103, -70, -33, 1, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, -2, 71, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -80, 108, 99, -117, 44, 36, -25, -98, -61, -83, 12, 9, 60, 59, -28, 37], tunnelServerId=1, dataCenterId=28}
+[08:40:33] [Thread-8/INFO]: starting tcp tunnel for client
+[08:40:33] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[08:40:33] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[08:40:33] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:53034, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -49, 42, -123, 120, 122, 18, -85, 8, 103, -70, -33, 1, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 17, 18, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -81, 101, 47, -35, -52, -50, 99, -116, -39, 18, 9, 38, 45, -52, 65, 5], tunnelServerId=1, dataCenterId=28}
+[08:40:33] [Thread-8/INFO]: starting tcp tunnel for client
+[08:40:33] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[08:40:33] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[08:40:33] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:53054, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -49, 62, 40, -95, 9, 113, -85, 8, 103, -70, -33, 1, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 108, 113, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 57, -99, 116, 70, -27, -62, -53, 54, -105, 87, 31, -11, -115, 124, 25, -43], tunnelServerId=1, dataCenterId=28}
+[08:40:33] [Thread-8/INFO]: starting tcp tunnel for client
+[08:40:33] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[08:40:33] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[08:40:33] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:53039, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -49, 47, 19, -125, -97, 7, -85, 8, 103, -70, -33, 1, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 33, 7, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -116, -30, -65, -77, -104, 8, -63, 49, 71, -69, 55, -116, 12, -107, 77, 48], tunnelServerId=1, dataCenterId=28}
+[08:40:33] [Thread-8/INFO]: starting tcp tunnel for client
+[08:40:33] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[08:40:33] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[08:40:33] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[08:40:33] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:53059, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -49, 67, 79, -120, 46, -66, -85, 8, 103, -70, -33, 1, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, -13, -66, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 10, -43, -53, -9, -58, 83, -116, 113, 97, 66, 67, -83, 80, 69, 53, 79], tunnelServerId=1, dataCenterId=28}
+[08:40:33] [Thread-8/INFO]: starting tcp tunnel for client
+[08:40:33] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[08:40:33] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[08:40:33] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[08:40:34] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:53044, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -49, 52, -57, -82, -48, -59, -85, 8, 103, -70, -33, 2, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, -87, -59, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -122, 117, -49, 118, 119, 106, -61, -84, 112, 31, -53, 45, -107, 106, 85, -45], tunnelServerId=1, dataCenterId=28}
+[08:40:34] [Thread-8/INFO]: starting tcp tunnel for client
+[08:40:34] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[08:40:34] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[08:40:34] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[08:40:34] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[08:40:34] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[08:40:34] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[08:40:34] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[08:40:34] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[08:40:34] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:53022, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -49, 30, -65, -38, 82, 53, -85, 8, 103, -70, -33, 2, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 34, 53, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -83, 115, 75, 101, -104, 121, -80, 89, -82, -60, -66, -23, -55, -90, 29, 73], tunnelServerId=1, dataCenterId=28}
+[08:40:34] [Thread-8/INFO]: starting tcp tunnel for client
+[08:40:34] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[08:40:34] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[08:40:34] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[08:40:34] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[08:40:34] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[08:40:34] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[08:40:34] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[08:40:34] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
