@@ -136,3 +136,10 @@
 [17:09:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
 [17:09:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
 [17:09:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:09:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:09:53] [Server thread/INFO]: Time elapsed: 468 ms
+[17:09:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:09:53] [Server thread/INFO]: Time elapsed: 351 ms
+[17:09:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
