@@ -1749,6 +1749,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-02-22 13:56:38 +0000",
+      "minecraft:chicken": "2025-02-23 19:11:41 +0000",
       "minecraft:pig": "2025-02-22 16:06:42 +0000",
       "minecraft:sheep": "2025-02-22 15:48:23 +0000"
     },
@@ -2027,6 +2028,30 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-23 16:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-23 19:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-02-23 19:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-02-23 19:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-02-23 19:12:35 +0000"
     },
     "done": true
   },
