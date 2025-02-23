@@ -16,6 +16,7 @@
       "minecraft:stony_shore": "2025-02-21 18:46:24 +0000",
       "minecraft:snowy_plains": "2025-02-21 18:54:22 +0000",
       "minecraft:snowy_taiga": "2025-02-21 19:16:56 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-23 20:02:41 +0000",
       "minecraft:frozen_ocean": "2025-02-21 19:29:27 +0000",
       "minecraft:desert": "2025-02-21 18:46:05 +0000",
       "minecraft:frozen_river": "2025-02-21 19:16:50 +0000",
@@ -2122,6 +2123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-23 19:59:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-02-23 19:12:35 +0000"
@@ -2149,6 +2156,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-02-23 19:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-23 19:59:12 +0000"
     },
     "done": true
   },
