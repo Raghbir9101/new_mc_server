@@ -196,3 +196,5 @@
 [18:53:55] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [18:53:55] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [18:53:55] [User Authenticator #1/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
+[18:53:57] [Server thread/INFO]: Almighty joined the game
+[18:53:57] [Server thread/INFO]: Almighty[/127.0.0.1:47472] logged in with entity id 35 at ([world]750.2913215269451, 64.5625, -102.75308855680451)
