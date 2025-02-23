@@ -2358,13 +2358,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
-      "has_planks": "2025-02-23 20:34:29 +0000"
+      "has_raw_gold": "2025-02-23 20:25:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-02-23 20:25:35 +0000"
     },
@@ -2376,9 +2376,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_raw_gold": "2025-02-23 20:25:35 +0000"
+      "has_log": "2025-02-23 20:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-23 20:34:29 +0000"
     },
     "done": true
   },
@@ -2403,12 +2409,6 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-02-23 20:34:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-02-23 20:34:25 +0000"
     },
     "done": true
   },
