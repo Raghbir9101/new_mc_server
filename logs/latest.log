@@ -238,3 +238,4 @@
 [14:48:44] [Server thread/INFO]: JhaantukeE[/127.0.0.1:47624] logged in with entity id 1020 at ([world]778.101549401113, 64.0, -43.726369098240205)
 [14:49:01] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
 [14:49:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@316f8431[id=21674134-4b25-38ec-a453-6676210759a9,name=JhaantukeE,properties={}] lost connection: Disconnected
+[14:51:37] [Thread-8/INFO]: send keep alive
