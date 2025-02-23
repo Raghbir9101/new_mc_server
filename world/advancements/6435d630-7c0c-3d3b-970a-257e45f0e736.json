@@ -2872,21 +2872,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "has_quartz": "2025-02-22 20:12:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-02-22 19:45:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-02-22 20:12:09 +0000"
+      "has_nautilus_shell": "2025-02-22 19:28:47 +0000"
     },
     "done": true
   },
@@ -2896,15 +2884,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_glowstone": "2025-02-22 20:16:16 +0000"
+      "has_egg": "2025-02-22 19:45:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_glowstone_dust": "2025-02-22 20:14:17 +0000"
+      "has_quartz": "2025-02-22 20:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-22 20:12:09 +0000"
     },
     "done": true
   },
@@ -2920,18 +2914,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-22 20:14:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-02-22 19:28:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-02-22 20:12:09 +0000"
@@ -2941,6 +2923,24 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-22 20:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-22 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-22 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-22 20:16:16 +0000"
     },
     "done": true
   },
