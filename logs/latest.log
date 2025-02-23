@@ -152,3 +152,13 @@
 [18:53:41] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
 [18:53:41] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
 [18:53:41] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[18:53:42] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.1
+[18:53:42] [Thread-8/INFO]: secret key found, checking
+[18:53:42] [Thread-8/INFO]: check secret
+[18:53:42] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[18:53:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:53:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:53:43] [Server thread/INFO]: [Geyser-Spigot] 
+[18:53:43] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b753 (git-master-da6e2f6)
+[18:53:43] [Server thread/INFO]: [Geyser-Spigot] 
+[18:53:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
