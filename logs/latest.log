@@ -147,3 +147,11 @@
 [17:09:54] [Worker-Main-3/INFO]: Preparing spawn area: 53%
 [17:09:54] [Server thread/INFO]: Time elapsed: 1099 ms
 [17:09:54] [Server thread/INFO]: [GSit] Enabling GSit v2.2.0
+[17:09:54] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[17:09:54] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
+[17:09:54] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[17:09:54] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[17:09:55] [Thread-8/INFO]: secret key found, checking
+[17:09:55] [Thread-8/INFO]: check secret
+[17:09:55] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.1
+[17:09:55] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
