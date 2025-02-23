@@ -146,3 +146,9 @@
 [18:53:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
 [18:53:40] [Worker-Main-3/INFO]: Preparing spawn area: 51%
 [18:53:40] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[18:53:41] [Server thread/INFO]: Time elapsed: 1316 ms
+[18:53:41] [Server thread/INFO]: [GSit] Enabling GSit v2.2.0
+[18:53:41] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[18:53:41] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
+[18:53:41] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[18:53:41] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
