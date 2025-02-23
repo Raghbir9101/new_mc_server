@@ -155,3 +155,9 @@
 [17:09:55] [Thread-8/INFO]: check secret
 [17:09:55] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.1
 [17:09:55] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[17:09:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:09:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:09:56] [Server thread/INFO]: [Geyser-Spigot] 
+[17:09:56] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b753 (git-master-da6e2f6)
+[17:09:56] [Server thread/INFO]: [Geyser-Spigot] 
+[17:09:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
