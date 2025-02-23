@@ -11,7 +11,7 @@ function saveChanges() {
 }
 
 // Run every 5 minutes
-setInterval(saveChanges, 1000);
+setInterval(saveChanges, 30*1000);
 
 // Run immediately on start
 saveChanges();
