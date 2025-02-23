@@ -906,3 +906,14 @@
 [16:55:52] [Server thread/INFO]: piyushnyt[/127.0.0.1:45604] logged in with entity id 145366 at ([world]749.781704502021, 48.0, -88.49721730801052)
 [16:55:57] [Thread-8/INFO]: send keep alive
 [16:59:57] [Thread-8/INFO]: send keep alive
+[17:02:35] [Async Chat Thread - #0/INFO]: [Not Secure] <piyushnyt> paaaaaaaaaaaaji vc
+[17:02:37] [Async Chat Thread - #0/INFO]: [Not Secure] <piyushnyt> vc
+[17:02:38] [Async Chat Thread - #1/INFO]: [Not Secure] <piyushnyt> vc
+[17:02:39] [Async Chat Thread - #0/INFO]: [Not Secure] <piyushnyt> vc
+[17:02:40] [Async Chat Thread - #1/INFO]: [Not Secure] <piyushnyt> vc
+[17:02:41] [Async Chat Thread - #0/INFO]: [Not Secure] <piyushnyt> vc
+[17:02:41] [Async Chat Thread - #1/INFO]: [Not Secure] <piyushnyt> cv
+[17:03:58] [Thread-8/INFO]: send keep alive
+[17:04:35] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[17:04:36] [Server thread/INFO]: Almighty lost connection: Disconnected
+[17:04:36] [Server thread/INFO]: Almighty left the game
