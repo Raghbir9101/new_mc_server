@@ -486,3 +486,5 @@
 [23:24:19] [Thread-6/INFO]: send keep alive
 [23:28:20] [Thread-6/INFO]: send keep alive
 [23:31:18] [Server thread/INFO]: Villager EntityVillager['Fisherman'/61, l='ServerLevel[world]', x=748.29, y=49.00, z=-101.51] died, message: 'Fisherman was slain by Almighty'
+[23:31:49] [Server thread/INFO]: Villager EntityVillager['Fisherman'/55, l='ServerLevel[world]', x=754.88, y=49.00, z=-94.26] died, message: 'Fisherman was slain by Almighty'
+[23:32:21] [Thread-6/INFO]: send keep alive
