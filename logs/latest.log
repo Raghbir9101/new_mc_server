@@ -161,3 +161,8 @@
 [17:09:56] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b753 (git-master-da6e2f6)
 [17:09:56] [Server thread/INFO]: [Geyser-Spigot] 
 [17:09:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:09:57] [Thread-8/INFO]: found minecraft java tunnel: listed-aqua.joinmc.link
+[17:09:57] [Thread-8/INFO]: keys and tunnel setup
+[17:09:57] [Thread-8/INFO]: playit.gg: tunnel setup
+[17:09:57] [Thread-8/INFO]: playit.gg: listed-aqua.joinmc.link
+[17:09:58] [Thread-8/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
