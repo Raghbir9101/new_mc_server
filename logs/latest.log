@@ -143,3 +143,7 @@
 [17:09:53] [Server thread/INFO]: Time elapsed: 351 ms
 [17:09:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
 [17:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[17:09:54] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[17:09:54] [Server thread/INFO]: Time elapsed: 1099 ms
+[17:09:54] [Server thread/INFO]: [GSit] Enabling GSit v2.2.0
