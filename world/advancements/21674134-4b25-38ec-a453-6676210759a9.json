@@ -273,6 +273,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-22 06:49:19 +0000",
+      "minecraft:witch": "2025-02-23 09:19:00 +0000",
       "minecraft:spider": "2025-02-21 20:54:23 +0000",
       "minecraft:zombie": "2025-02-21 18:46:04 +0000",
       "minecraft:creeper": "2025-02-21 20:24:00 +0000",
@@ -1529,6 +1530,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-22 19:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-23 09:19:34 +0000"
     },
     "done": true
   },
