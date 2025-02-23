@@ -10,3 +10,6 @@
 [17:09:42] [Server thread/INFO]: Generating keypair
 [17:09:42] [Server thread/INFO]: Starting Minecraft server on *:25565
 [17:09:43] [Server thread/INFO]: Using epoll channel type
+[17:09:43] [Server thread/INFO]: [GSit] Loading GSit v2.2.0
+[17:09:43] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.0.1
+[17:09:43] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.1 is now loaded. Registering protocol transformers and injecting...
