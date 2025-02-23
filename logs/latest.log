@@ -371,3 +371,64 @@
 [20:40:19] [Server thread/INFO]: piyushnyt joined the game
 [20:40:19] [Server thread/INFO]: piyushnyt[/127.0.0.1:42214] logged in with entity id 12524 at ([world]1387.4431518109932, 61.69257766092565, 451.9358639698677)
 [20:42:28] [Thread-7/INFO]: send keep alive
+[20:45:11] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:1478) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.dedicated.DedicatedServer.c(DedicatedServer.java:406) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1321) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1071) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.ints.IntArrayList.getInt(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$MapIterator.nextEntry(Int2ObjectOpenHashMap.java:663) ~[fastutil-8.5.12.jar:?]
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueIterator.next(Int2ObjectOpenHashMap.java:1168) ~[fastutil-8.5.12.jar:?]
+	at net.minecraft.server.level.PlayerChunkMap.l(PlayerChunkMap.java:1282) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.level.ChunkProviderServer.a(ChunkProviderServer.java:354) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:412) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:1472) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	... 5 more
+[20:45:11] [Server thread/ERROR]: This crash report has been saved to: /workspaces/new_mc_server/crash-reports/crash-2025-02-23_20.45.11-server.txt
+[20:45:11] [Server thread/INFO]: Stopping server
+[20:45:11] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[20:45:11] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[20:45:11] [nioEventLoopGroup-2-4/WARN]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:45:11] [nioEventLoopGroup-2-2/WARN]: failed to send data to minecraft server
+[20:45:11] [nioEventLoopGroup-2-4/WARN]: failed to send data to minecraft server
+[20:45:11] [nioEventLoopGroup-2-4/WARN]: failed to send data to minecraft server
+[20:45:11] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[20:45:11] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.1
+[20:45:11] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[20:45:11] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.1
+[20:45:11] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[20:45:11] [Server thread/INFO]: [ViaVersion] Empty pipeline, nothing to uninject
+[20:45:11] [Server thread/INFO]: [GSit] Disabling GSit v2.2.0
+[20:45:11] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[20:45:11] [Server thread/INFO]: Saving players
+[20:45:12] [Server thread/INFO]: Almighty lost connection: Server closed
+[20:45:12] [Server thread/INFO]: Almighty left the game.
+[20:45:12] [Server thread/INFO]: piyushnyt lost connection: Server closed
+[20:45:12] [Server thread/INFO]: piyushnyt left the game.
+[20:45:12] [Server thread/INFO]: Saving worlds
+[20:45:13] [Thread-7/INFO]: control channel shutdown
+[20:45:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:45:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:45:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:45:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:45:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:45:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:45:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
