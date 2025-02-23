@@ -274,6 +274,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-22 06:49:19 +0000",
       "minecraft:enderman": "2025-02-23 14:08:07 +0000",
+      "minecraft:magma_cube": "2025-02-23 19:32:54 +0000",
       "minecraft:witch": "2025-02-23 09:19:00 +0000",
       "minecraft:spider": "2025-02-21 20:54:23 +0000",
       "minecraft:zombie": "2025-02-21 18:46:04 +0000",
@@ -1949,6 +1950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-23 19:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-02-23 19:26:15 +0000"
@@ -2066,6 +2073,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-02-23 19:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-23 19:30:49 +0000"
     },
     "done": true
   },
@@ -2192,6 +2205,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-02-23 19:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-23 19:30:49 +0000"
     },
     "done": true
   },
