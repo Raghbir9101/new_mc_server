@@ -1,2 +1,5 @@
 [17:09:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [17:09:41] [ServerMain/INFO]: Loaded 1290 recipes
+[17:09:42] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:09:42] [Server thread/INFO]: Loading properties
+[17:09:42] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
