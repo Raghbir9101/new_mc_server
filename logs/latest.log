@@ -832,3 +832,4 @@
 [16:15:53] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
 [16:15:53] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
 [16:15:53] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
+[16:19:53] [Thread-8/INFO]: send keep alive
