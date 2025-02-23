@@ -17,3 +17,6 @@
 [17:09:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
 [17:09:45] [Server thread/INFO]: [ViaBackwards] Loading translations...
 [17:09:45] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[17:09:46] [Server thread/INFO]: [playit-gg] Loading playit-gg v0.1.4
+[17:09:46] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.0.1
+[17:09:46] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.6.0-SNAPSHOT
