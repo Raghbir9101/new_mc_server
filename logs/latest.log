@@ -166,3 +166,5 @@
 [18:53:44] [Thread-8/INFO]: keys and tunnel setup
 [18:53:44] [Thread-8/INFO]: playit.gg: tunnel setup
 [18:53:44] [Thread-8/INFO]: playit.gg: listed-aqua.joinmc.link
+[18:53:45] [Thread-8/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[18:53:45] [Thread-8/INFO]: request queued, waiting 1 second before resend
