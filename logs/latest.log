@@ -228,3 +228,5 @@ java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.writeAnd
 [22:01:21] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [22:01:21] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
 [22:01:21] [User Authenticator #1/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
+[22:01:22] [Server thread/INFO]: Almighty joined the game
+[22:01:22] [Server thread/INFO]: Almighty[/127.0.0.1:55932] logged in with entity id 33 at ([world]474.4515444514188, 61.0, -659.9191060348996)
