@@ -172,3 +172,152 @@
 [00:35:23] [Server thread/WARN]: [Geyser-Spigot] You are using an outdated version of ViaVersion; please download the newest version from https://ci.viaversion.com/job/ViaVersion/
 [00:35:23] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
 [00:35:23] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 5.0.1
+[00:37:17] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=115.187.51.194:53621, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 115, -69, 51, -62, -47, 117, 15, 58, -104, 14, -85, 8, 103, -69, -65, 61, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 52, 14, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 113, 110, 47, -127, 95, 39, -37, 51, 57, 16, -11, 54, -78, -74, 112, 95], tunnelServerId=1, dataCenterId=28}
+[00:37:17] [Thread-7/INFO]: starting tcp tunnel for client
+[00:37:17] [Thread-7/INFO]: start connection to /209.25.143.2:43784 to claim client
+[00:37:17] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[00:37:17] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[00:37:17] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[00:37:17] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:37:17] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:37:17] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:37:17] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[00:37:17] [User Authenticator #1/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
+[00:37:18] [Server thread/INFO]: Almighty joined the game
+[00:37:18] [Server thread/INFO]: Almighty[/127.0.0.1:54866] logged in with entity id 6 at ([world]710.5549771928171, 66.0, -119.9373475561349)
+[00:39:20] [Thread-7/INFO]: send keep alive
+[00:43:21] [Thread-7/INFO]: send keep alive
+[00:47:21] [Thread-7/INFO]: send keep alive
+[00:51:21] [Thread-7/INFO]: send keep alive
+[00:51:56] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:49008, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -65, 112, 31, 10, -80, -61, -85, 10, 103, -69, -62, -84, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 100, -61, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -88, -5, -27, -88, -18, 14, -6, 67, 64, 120, 96, 13, 41, -68, 73, -71], tunnelServerId=1, dataCenterId=44}
+[00:51:56] [Thread-7/INFO]: starting tcp tunnel for client
+[00:51:56] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:51:56] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[00:51:56] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[00:51:56] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[00:51:56] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:51:56] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:51:56] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:51:56] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[00:51:57] [Thread-7/INFO]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:40935, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:44980, claimAddress=209.25.143.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -97, -25, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -81, -76, 0, 0, 0, 0, -73, 58, 57, -84, -85, 10, 103, -69, -62, -83, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 40, -84, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -13, -128, 114, 89, 74, -54, -93, -128, -112, -63, 105, -8, -104, 50, -108, 56], tunnelServerId=1, dataCenterId=44}
+[00:51:57] [Thread-7/INFO]: starting tcp tunnel for client
+[00:51:57] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:51:57] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[00:51:57] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[00:51:57] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[00:51:57] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:51:57] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:51:57] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:51:57] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[00:51:58] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:49030, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -65, -122, 66, -22, 43, -75, -85, 10, 103, -69, -62, -82, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 25, -75, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 61, 24, -67, -77, -16, -83, -14, -60, 54, 57, 41, 3, -101, -113, 90, 124], tunnelServerId=1, dataCenterId=44}
+[00:51:58] [Thread-7/INFO]: starting tcp tunnel for client
+[00:51:58] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:51:58] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[00:51:58] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[00:51:58] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[00:51:58] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:51:58] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:51:58] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:51:58] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[00:51:58] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:49018, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -65, 122, 99, -84, 121, -73, -85, 10, 103, -69, -62, -82, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, -123, -73, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 35, 15, 48, -17, -74, 6, 92, -84, 75, -120, -37, 76, -11, 20, 17, -100], tunnelServerId=1, dataCenterId=44}
+[00:51:58] [Thread-7/INFO]: starting tcp tunnel for client
+[00:51:58] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:51:58] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[00:51:58] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[00:51:58] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[00:51:58] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:51:58] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:51:58] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:51:58] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[00:51:59] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:49032, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -65, -120, -58, 30, 55, -22, -85, 10, 103, -69, -62, -81, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 116, -22, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 56, 70, 100, 98, 32, 81, -27, 4, -123, -81, -86, 77, -72, 106, 115, -24], tunnelServerId=1, dataCenterId=44}
+[00:51:59] [Thread-7/INFO]: starting tcp tunnel for client
+[00:51:59] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:51:59] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[00:51:59] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[00:51:59] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[00:51:59] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:51:59] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:51:59] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:51:59] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[00:52:01] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:49034, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -65, -118, 71, 81, 1, 48, -85, 10, 103, -69, -62, -80, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 127, 48, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -121, -119, -69, 68, 92, -97, 93, -28, -125, 109, -100, -115, 23, 68, -105, -86], tunnelServerId=1, dataCenterId=44}
+[00:52:01] [Thread-7/INFO]: starting tcp tunnel for client
+[00:52:01] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:52:01] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[00:52:01] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:49040, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -65, -112, 89, 114, -36, -109, -85, 10, 103, -69, -62, -80, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 87, -109, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 120, -117, 21, -82, -70, 92, -112, -45, 110, -103, 31, 65, 40, 6, -115, -18], tunnelServerId=1, dataCenterId=44}
+[00:52:01] [Thread-7/INFO]: starting tcp tunnel for client
+[00:52:01] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:52:01] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[00:52:01] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[00:52:01] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[00:52:01] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:52:01] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:52:01] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:52:01] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[00:52:01] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:49054, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -65, -98, -55, -122, 71, 84, -85, 10, 103, -69, -62, -79, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, -128, 84, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -83, -4, 64, -2, -65, 76, -101, -128, 7, -69, -103, -48, 42, 17, 35, -30], tunnelServerId=1, dataCenterId=44}
+[00:52:01] [Thread-7/INFO]: starting tcp tunnel for client
+[00:52:01] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:52:01] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:52:01] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[00:52:02] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:49062, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -65, -90, -57, 93, -36, 94, -85, 10, 103, -69, -62, -78, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 26, 94, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -20, -56, -116, -20, 71, -103, 25, -18, -15, 19, -56, -21, 83, 115, 82, -64], tunnelServerId=1, dataCenterId=44}
+[00:52:02] [Thread-7/INFO]: starting tcp tunnel for client
+[00:52:02] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:52:02] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[00:52:02] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[00:52:02] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[00:52:02] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:52:02] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:52:02] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:52:02] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[00:52:16] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:35958, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -116, 118, -74, -73, -52, 36, -85, 10, 103, -69, -62, -65, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 14, 36, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -10, -2, -72, 2, 25, 38, 47, -122, 124, 17, -117, 105, 61, -33, -33, -124], tunnelServerId=1, dataCenterId=44}
+[00:52:16] [Thread-7/INFO]: starting tcp tunnel for client
+[00:52:16] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:52:16] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[00:52:16] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[00:52:16] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[00:52:16] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:52:16] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:52:16] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:52:16] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[00:52:17] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:37578, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -110, -54, 113, 111, 42, -51, -85, 10, 103, -69, -62, -64, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, -115, -51, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -29, -68, -62, 15, 15, -25, 102, -42, 55, -31, -61, -56, -48, -105, 15, -105], tunnelServerId=1, dataCenterId=44}
+[00:52:17] [Thread-7/INFO]: starting tcp tunnel for client
+[00:52:17] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:52:17] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[00:52:17] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[00:52:17] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[00:52:17] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:52:17] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:52:17] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:52:17] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[00:52:20] [Thread-7/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=216.128.138.102:37580, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, -40, -128, -118, 102, -110, -52, -23, 95, -108, 74, -85, 10, 103, -69, -62, -61, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 41, 74, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -43, -90, -66, 112, 40, 52, -7, -112, 88, -52, -63, 81, 83, -24, -85, 121], tunnelServerId=1, dataCenterId=44}
+[00:52:20] [Thread-7/INFO]: starting tcp tunnel for client
+[00:52:20] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:52:20] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[00:52:20] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[00:52:20] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[00:52:20] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:52:20] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:52:20] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:52:20] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[00:52:20] [Thread-7/INFO]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:40935, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:53984, claimAddress=209.25.143.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -97, -25, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -46, -32, 0, 0, 0, 0, -98, -14, -105, 62, -85, 10, 103, -69, -62, -61, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 40, 62, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 77, 26, -124, 58, -104, -117, -124, -6, 117, -82, -55, 39, -62, -30, -10, -62], tunnelServerId=1, dataCenterId=44}
+[00:52:20] [Thread-7/INFO]: starting tcp tunnel for client
+[00:52:20] [Thread-7/INFO]: start connection to /209.25.143.2:43786 to claim client
+[00:52:20] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[00:52:20] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[00:52:20] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[00:52:20] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[00:52:20] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[00:52:20] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[00:52:20] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[00:55:23] [Thread-7/INFO]: send keep alive
+[00:59:23] [Thread-7/INFO]: send keep alive
