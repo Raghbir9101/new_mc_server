@@ -1,7 +1,2 @@
-[00:00:26] [Thread-6/INFO]: send keep alive
-[00:04:27] [Thread-6/INFO]: send keep alive
-[00:08:28] [Thread-6/INFO]: send keep alive
-[00:12:29] [Thread-6/INFO]: send keep alive
-[00:16:30] [Thread-6/INFO]: send keep alive
-[00:19:20] [Server thread/INFO]: Almighty has made the advancement [Best Friends Forever]
-[00:20:32] [Thread-6/INFO]: send keep alive
+[00:35:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:35:02] [ServerMain/INFO]: Loaded 1290 recipes
