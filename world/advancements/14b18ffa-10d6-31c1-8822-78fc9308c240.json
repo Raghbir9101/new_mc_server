@@ -2454,6 +2454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-24 00:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-02-23 22:41:23 +0000"
@@ -2493,6 +2499,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-23 23:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-24 00:07:57 +0000"
     },
     "done": true
   },
