@@ -273,6 +273,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-24 18:53:08 +0000",
       "minecraft:skeleton": "2025-02-22 06:49:19 +0000",
       "minecraft:enderman": "2025-02-23 14:08:07 +0000",
       "minecraft:magma_cube": "2025-02-23 19:32:54 +0000",
@@ -2524,6 +2525,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-23 20:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-24 18:53:08 +0000"
     },
     "done": true
   },
