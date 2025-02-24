@@ -1907,7 +1907,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:basalt_deltas": "2025-02-23 16:09:18 +0000"
+      "minecraft:nether_wastes": "2025-02-24 22:02:46 +0000",
+      "minecraft:basalt_deltas": "2025-02-23 16:09:18 +0000",
+      "minecraft:warped_forest": "2025-02-24 22:03:56 +0000"
     },
     "done": false
   },
