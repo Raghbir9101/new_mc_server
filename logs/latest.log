@@ -207,3 +207,13 @@ java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.writeAnd
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[22:00:41] [Thread-9/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=115.187.51.194:63780, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 115, -69, 51, -62, -7, 36, -127, 102, -6, 40, -85, 8, 103, -68, -20, 9, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 1, 40, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -48, 124, -112, -74, 94, 117, 66, 74, -70, 63, -76, -34, 78, -88, 77, 119], tunnelServerId=1, dataCenterId=28}
+[22:00:41] [Thread-9/INFO]: starting tcp tunnel for client
+[22:00:41] [Thread-9/INFO]: start connection to /209.25.143.2:43784 to claim client
+[22:00:41] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[22:00:41] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[22:00:41] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[22:00:41] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[22:00:41] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[22:00:41] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[22:00:41] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
