@@ -274,17 +274,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-24 18:53:08 +0000",
+      "minecraft:blaze": "2025-02-25 20:25:28 +0000",
       "minecraft:skeleton": "2025-02-22 06:49:19 +0000",
       "minecraft:phantom": "2025-02-25 18:29:35 +0000",
+      "minecraft:witch": "2025-02-23 09:19:00 +0000",
+      "minecraft:wither_skeleton": "2025-02-25 20:26:46 +0000",
+      "minecraft:husk": "2025-02-21 18:45:58 +0000",
+      "minecraft:hoglin": "2025-02-25 20:23:13 +0000",
       "minecraft:enderman": "2025-02-23 14:08:07 +0000",
       "minecraft:magma_cube": "2025-02-23 19:32:54 +0000",
-      "minecraft:witch": "2025-02-23 09:19:00 +0000",
       "minecraft:spider": "2025-02-21 20:54:23 +0000",
       "minecraft:zombie": "2025-02-21 18:46:04 +0000",
       "minecraft:creeper": "2025-02-21 20:24:00 +0000",
-      "minecraft:zombie_villager": "2025-02-24 18:57:49 +0000",
-      "minecraft:husk": "2025-02-21 18:45:58 +0000",
-      "minecraft:hoglin": "2025-02-25 20:23:13 +0000"
+      "minecraft:zombie_villager": "2025-02-24 18:57:49 +0000"
     },
     "done": false
   },
@@ -2727,9 +2729,39 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-25 20:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-02-25 20:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-25 20:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
     },
     "done": true
   },
@@ -2739,9 +2771,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-25 20:25:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-02-25 20:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
     },
     "done": true
   },
@@ -2757,9 +2801,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-25 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-25 20:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-02-25 20:25:07 +0000"
     },
     "done": true
   },
