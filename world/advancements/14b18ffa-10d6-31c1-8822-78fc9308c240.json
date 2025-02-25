@@ -230,6 +230,7 @@
       "cooked_mutton": "2025-02-21 20:03:30 +0000",
       "cooked_beef": "2025-02-22 13:30:11 +0000",
       "cod": "2025-02-25 17:54:06 +0000",
+      "beetroot": "2025-02-25 18:08:53 +0000",
       "carrot": "2025-02-22 14:12:48 +0000"
     },
     "done": false
@@ -2931,6 +2932,24 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-02-24 22:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-25 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-25 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-25 18:12:01 +0000"
     },
     "done": true
   },
