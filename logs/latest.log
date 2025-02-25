@@ -220,3 +220,10 @@
 [20:16:10] [User Authenticator #2/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
 [20:16:11] [Server thread/INFO]: Almighty joined the game
 [20:16:11] [Server thread/INFO]: Almighty[/127.0.0.1:58278] logged in with entity id 824 at ([world_nether]182.3586661965941, 42.0, -7.267126387479744)
+[20:18:01] [Server thread/INFO]: JhaantukeE issued server command: /tp 27 53 587
+[20:18:01] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to 27.500000, 53.000000, 587.500000]
+[20:18:01] [Server thread/INFO]: JhaantukeE has made the advancement [A Terrible Fortress]
+[20:18:01] [Thread-8/INFO]: send keep alive
+[20:18:18] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty JhaantukeE
+[20:18:18] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
+[20:18:19] [Server thread/INFO]: Almighty has made the advancement [A Terrible Fortress]
