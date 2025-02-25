@@ -331,3 +331,10 @@
 [21:14:08] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
 [21:15:11] [Server thread/INFO]: JhaantukeE issued server command: /tp -25 54 538
 [21:15:11] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to -24.500000, 54.000000, 538.500000]
+[21:15:24] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty JhaantukeE
+[21:15:24] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
+[21:15:32] [Thread-8/INFO]: send keep alive
+[21:16:08] [Server thread/INFO]: Almighty was slain by Blaze
+[21:16:16] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty
+[21:16:16] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to Almighty]
+[21:16:16] [Server thread/INFO]: piyushnyt was fireballed by Blaze
