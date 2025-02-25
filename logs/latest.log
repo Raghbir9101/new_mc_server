@@ -373,3 +373,4 @@
 [21:24:19] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
 [21:24:19] [Server thread/INFO]: Almighty lost connection: Disconnected
 [21:24:19] [Server thread/INFO]: Almighty left the game
+[21:26:33] [Thread-0/INFO]: Stopping server
