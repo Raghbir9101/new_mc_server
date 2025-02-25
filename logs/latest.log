@@ -370,3 +370,6 @@
 [21:22:43] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [21:22:43] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [21:23:35] [Thread-8/INFO]: send keep alive
+[21:24:19] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
+[21:24:19] [Server thread/INFO]: Almighty lost connection: Disconnected
+[21:24:19] [Server thread/INFO]: Almighty left the game
