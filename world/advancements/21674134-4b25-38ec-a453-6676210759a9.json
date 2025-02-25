@@ -283,7 +283,8 @@
       "minecraft:zombie": "2025-02-21 18:46:04 +0000",
       "minecraft:creeper": "2025-02-21 20:24:00 +0000",
       "minecraft:zombie_villager": "2025-02-24 18:57:49 +0000",
-      "minecraft:husk": "2025-02-21 18:45:58 +0000"
+      "minecraft:husk": "2025-02-21 18:45:58 +0000",
+      "minecraft:hoglin": "2025-02-25 20:23:13 +0000"
     },
     "done": false
   },
@@ -2726,9 +2727,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-25 20:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-25 20:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-02-25 20:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-25 20:20:26 +0000"
     },
     "done": true
   },
