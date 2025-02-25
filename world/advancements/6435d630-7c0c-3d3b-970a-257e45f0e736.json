@@ -545,17 +545,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-22 17:32:17 +0000",
+      "minecraft:blaze": "2025-02-25 21:13:58 +0000",
       "minecraft:skeleton": "2025-02-21 19:25:57 +0000",
       "minecraft:phantom": "2025-02-25 19:06:40 +0000",
+      "minecraft:witch": "2025-02-24 19:49:20 +0000",
+      "minecraft:hoglin": "2025-02-25 21:03:12 +0000",
       "minecraft:enderman": "2025-02-22 08:06:14 +0000",
       "minecraft:magma_cube": "2025-02-23 08:45:51 +0000",
-      "minecraft:witch": "2025-02-24 19:49:20 +0000",
       "minecraft:spider": "2025-02-21 19:27:52 +0000",
       "minecraft:zombie": "2025-02-21 19:25:23 +0000",
       "minecraft:creeper": "2025-02-21 22:26:58 +0000",
       "minecraft:drowned": "2025-02-22 19:28:41 +0000",
-      "minecraft:zombie_villager": "2025-02-21 20:53:07 +0000",
-      "minecraft:hoglin": "2025-02-25 21:03:12 +0000"
+      "minecraft:zombie_villager": "2025-02-21 20:53:07 +0000"
     },
     "done": false
   },
@@ -3308,9 +3309,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-25 21:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-25 21:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-25 21:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-25 21:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-25 21:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-25 21:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-25 21:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-25 21:14:01 +0000"
     },
     "done": true
   },
