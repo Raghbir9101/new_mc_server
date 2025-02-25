@@ -338,3 +338,20 @@
 [21:16:16] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty
 [21:16:16] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to Almighty]
 [21:16:16] [Server thread/INFO]: piyushnyt was fireballed by Blaze
+[21:19:33] [Thread-8/INFO]: send keep alive
+[21:19:54] [Server thread/INFO]: piyushnyt fell from a high place
+[21:19:59] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[21:19:59] [Server thread/INFO]: piyushnyt lost connection: Disconnected
+[21:19:59] [Server thread/INFO]: piyushnyt left the game
+[21:19:59] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.43.41.223:61698, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 43, 41, -33, -15, 2, -121, -36, 47, 83, -85, 8, 103, -66, 51, -1, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, -21, 83, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -69, -80, 80, 52, 24, 1, 96, 83, -16, -25, 113, -112, 71, -74, -111, 55], tunnelServerId=1, dataCenterId=28}
+[21:19:59] [Thread-8/INFO]: starting tcp tunnel for client
+[21:19:59] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[21:19:59] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[21:19:59] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[21:19:59] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[21:19:59] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[21:19:59] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[21:19:59] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[21:19:59] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[21:20:36] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty JhaantukeE
+[21:20:36] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
