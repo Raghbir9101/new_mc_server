@@ -548,3 +548,4 @@
 [18:16:23] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [18:16:23] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [18:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3647ms or 72 ticks behind
+[18:18:54] [Thread-9/INFO]: send keep alive
