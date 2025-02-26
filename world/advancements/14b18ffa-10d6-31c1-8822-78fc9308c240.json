@@ -223,7 +223,6 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-21 21:02:31 +0000",
-      "apple": "2025-02-22 14:16:04 +0000",
       "chicken": "2025-02-25 22:38:45 +0000",
       "bread": "2025-02-21 21:51:22 +0000",
       "golden_apple": "2025-02-23 20:36:27 +0000",
@@ -231,8 +230,10 @@
       "cooked_mutton": "2025-02-21 20:03:30 +0000",
       "salmon": "2025-02-25 19:07:10 +0000",
       "cooked_beef": "2025-02-22 13:30:11 +0000",
-      "cod": "2025-02-25 17:54:06 +0000",
+      "melon_slice": "2025-02-26 02:37:55 +0000",
       "beetroot": "2025-02-25 18:08:53 +0000",
+      "apple": "2025-02-22 14:16:04 +0000",
+      "cod": "2025-02-25 17:54:06 +0000",
       "carrot": "2025-02-22 14:12:48 +0000"
     },
     "done": false
@@ -3281,12 +3282,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2025-02-26 01:14:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-02-26 01:13:52 +0000"
@@ -3320,6 +3315,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-02-26 01:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-02-26 01:14:09 +0000"
     },
     "done": true
   },
