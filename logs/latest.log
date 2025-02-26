@@ -379,3 +379,5 @@
 [17:45:03] [Server thread/INFO]: JhaantukeE joined the game
 [17:45:03] [Server thread/INFO]: JhaantukeE[/127.0.0.1:59558] logged in with entity id 7754 at ([world]761.6279761408756, 60.0625, -88.35386696508144)
 [17:45:59] [Thread-7/INFO]: send keep alive
+[17:46:12] [Server thread/INFO]: Villager EntityVillager['Fisherman'/7924, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.30] died, message: 'Fisherman was squished too much'
+[17:46:31] [Server thread/INFO]: Villager EntityVillager['Villager'/7917, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.30] died, message: 'Villager was squished too much'
