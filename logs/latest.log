@@ -500,3 +500,6 @@
 [06:19:22] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [06:19:22] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [06:22:40] [Thread-9/INFO]: send keep alive
+[06:25:44] [Server thread/INFO]: Villager EntityVillager['Fisherman'/207, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.30] died, message: 'Fisherman was squished too much'
+[06:26:41] [Thread-9/INFO]: send keep alive
+[06:27:02] [Server thread/INFO]: Villager EntityVillager['Villager'/212, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
