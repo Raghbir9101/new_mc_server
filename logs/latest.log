@@ -389,3 +389,6 @@
 [17:54:00] [Thread-7/INFO]: send keep alive
 [17:58:01] [Thread-7/INFO]: send keep alive
 [18:02:03] [Thread-7/INFO]: send keep alive
+[18:03:09] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 10000
+[18:03:09] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 10000.0 per second]
+[18:03:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1506ms or 15060 ticks behind
