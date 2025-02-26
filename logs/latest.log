@@ -344,3 +344,9 @@
 [05:28:41] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [05:30:35] [Thread-9/INFO]: send keep alive
 [05:34:35] [Thread-9/INFO]: send keep alive
+[05:38:36] [Thread-9/INFO]: send keep alive
+[05:42:36] [Thread-9/INFO]: send keep alive
+[05:45:21] [Server thread/INFO]: Villager EntityVillager['Villager'/214, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.30] died, message: 'Villager was squished too much'
+[05:46:36] [Thread-9/INFO]: send keep alive
+[05:50:37] [Thread-9/INFO]: send keep alive
+[05:52:07] [Server thread/INFO]: Villager EntityVillager['Librarian'/203, l='ServerLevel[world]', x=761.30, y=56.00, z=-103.70] died, message: 'Librarian was squished too much'
