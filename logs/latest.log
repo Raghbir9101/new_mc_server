@@ -362,3 +362,4 @@
 [03:50:32] [Server thread/INFO]: Villager EntityVillager['Villager'/339, l='ServerLevel[world]', x=761.30, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
 [03:50:49] [Thread-8/INFO]: send keep alive
 [03:51:26] [Server thread/INFO]: Villager EntityVillager['Villager'/340, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[03:52:11] [Server thread/INFO]: Villager EntityVillager['Villager'/343, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
