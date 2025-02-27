@@ -32,4 +32,8 @@ function runGitCommands() {
     });
 }
 
+setInterval(()=>{
+    runGitCommands()
+},1000)
+
 runGitCommands()
