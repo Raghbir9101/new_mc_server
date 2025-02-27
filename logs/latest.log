@@ -372,3 +372,11 @@
 [04:10:53] [Thread-8/INFO]: send keep alive
 [04:14:53] [Thread-8/INFO]: send keep alive
 [04:18:55] [Thread-8/INFO]: send keep alive
+[04:22:56] [Thread-8/INFO]: send keep alive
+[04:23:14] [Server thread/INFO]: Almighty fell from a high place
+[04:24:45] [Server thread/INFO]: Villager EntityVillager['Villager'/28442, l='ServerLevel[world]', x=761.30, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[04:26:19] [Server thread/INFO]: Villager EntityVillager['Villager'/28445, l='ServerLevel[world]', x=761.30, y=56.00, z=-103.30] died, message: 'Villager was squished too much'
+[04:26:55] [Server thread/INFO]: Villager EntityVillager['Villager'/28444, l='ServerLevel[world]', x=761.30, y=56.00, z=-103.30] died, message: 'Villager was squished too much'
+[04:26:56] [Thread-8/INFO]: send keep alive
+[04:30:53] [Server thread/INFO]: Villager EntityVillager['Villager'/28449, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.30] died, message: 'Villager was squished too much'
+[04:30:56] [Thread-8/INFO]: send keep alive
