@@ -9,21 +9,21 @@ function runGitCommands() {
 
     exec("git add .", (err, stdout, stderr) => {
         if (err) {
-            console.error(`Error adding files: ${stderr}`);
+            console.error(`Error adding files: ${stderr} ${stdout}`);
             return;
         }
         console.log("Files added successfully.");
 
         exec(`git commit -m ${commitMessage}`, (err, stdout, stderr) => {
             if (err) {
-                console.error(`Error committing files: ${stderr}`);
+                console.error(`Error committing files: ${stderr} ${stdout}`);
                 return;
             }
             console.log("Files committed successfully.");
 
             exec("git push --force", (err, stdout, stderr) => {
                 if (err) {
-                    console.error(`Error pushing files: ${stderr}`);
+                    console.error(`Error pushing files: ${stderr} ${stdout}`);
                     return;
                 }
                 console.log("Files pushed successfully.");
@@ -34,6 +34,6 @@ function runGitCommands() {
 
 setInterval(()=>{
     runGitCommands()
-},30*)
+},30*1000)
 
 runGitCommands()
