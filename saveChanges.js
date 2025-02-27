@@ -33,8 +33,5 @@ function runGitCommands() {
     });
 }
 
-setInterval(()=>{
-    runGitCommands()
-},30*1000)
 
 runGitCommands()
