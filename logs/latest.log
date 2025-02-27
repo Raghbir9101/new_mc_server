@@ -426,3 +426,6 @@
 [17:14:53] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 10000.0 per second]
 [17:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1521ms or 15217 ticks behind
 [17:15:45] [Thread-9/INFO]: send keep alive
+[17:16:16] [Server thread/INFO]: JhaantukeE issued server command: /difficulty peaceful
+[17:16:16] [Server thread/INFO]: [JhaantukeE: The difficulty has been set to Peaceful]
+[17:16:43] [Server thread/INFO]: Corruptor has made the advancement [We Need to Go Deeper]
