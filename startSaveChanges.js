@@ -10,8 +10,10 @@ function saveChanges() {
     });
 }
 
+const SAVE_FREQUENCY = 60; // IN SECs
+
 // Run every 5 minutes
-setInterval(saveChanges, 30*1000);
+setInterval(saveChanges, SAVE_FREQUENCY * 1000);
 
 // Run immediately on start
 saveChanges();
