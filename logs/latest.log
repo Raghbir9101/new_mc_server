@@ -312,3 +312,10 @@
 [13:26:27] [Thread-8/INFO]: send keep alive
 [13:30:29] [Server thread/INFO]: JhaantukeE issued server command: /seed
 [13:30:30] [Thread-8/INFO]: send keep alive
+[13:32:16] [Server thread/INFO]: JhaantukeE issued server command: /tp -192 ~ 48
+[13:32:16] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to -191.500000, 57.000000, 48.500000]
+[13:32:17] [Server thread/INFO]: JhaantukeE has made the advancement [Those Were the Days]
+[13:34:29] [Server thread/INFO]: JhaantukeE issued server command: /difficulty peaceful
+[13:34:29] [Server thread/INFO]: [JhaantukeE: The difficulty has been set to Peaceful]
+[13:34:31] [Thread-8/INFO]: send keep alive
+[13:34:55] [Server thread/INFO]: JhaantukeE has made the advancement [War Pigs]
