@@ -413,3 +413,8 @@
 [17:04:55] [Server thread/INFO]: Corruptor joined the game
 [17:04:55] [Server thread/INFO]: Corruptor[/127.0.0.1:53928] logged in with entity id 15169 at ([world]690.9603068240459, 67.0, -105.87253905071503)
 [17:06:23] [Server thread/INFO]: Corruptor has made the advancement [Cover Me with Diamonds]
+[17:07:01] [Server thread/INFO]: Corruptor has made the advancement [What a Deal!]
+[17:07:43] [Thread-9/INFO]: send keep alive
+[17:11:45] [Thread-9/INFO]: send keep alive
+[17:11:51] [Server thread/INFO]: hardenn has made the advancement [We Need to Go Deeper]
+[17:12:46] [Server thread/INFO]: Villager EntityVillager['Villager'/313, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
