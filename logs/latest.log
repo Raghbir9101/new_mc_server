@@ -218,3 +218,6 @@
 [16:45:38] [User Authenticator #2/INFO]: UUID of player JhaantukeE is 21674134-4b25-38ec-a453-6676210759a9
 [16:45:39] [Server thread/INFO]: JhaantukeE joined the game
 [16:45:39] [Server thread/INFO]: JhaantukeE[/127.0.0.1:50618] logged in with entity id 893 at ([world]694.1670227824263, 66.0, -86.94433661215612)
+[16:45:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[16:46:11] [Server thread/WARN]: JhaantukeE moved too quickly! 6.719346848660507,0.0,-12.369921916970853
+[16:46:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3943ms or 78 ticks behind
