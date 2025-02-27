@@ -510,3 +510,8 @@
 [18:20:02] [Thread-9/INFO]: send keep alive
 [18:20:10] [Server thread/INFO]: JhaantukeE issued server command: /tick unfreeze
 [18:20:10] [Server thread/INFO]: [JhaantukeE: The game is running normally]
+[18:21:10] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 20
+[18:21:10] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 20.0 per second]
+[18:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 108385ms or 2167 ticks behind
+[18:21:18] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty JhaantukeE
+[18:21:18] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
