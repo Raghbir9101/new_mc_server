@@ -445,3 +445,16 @@
 [17:31:12] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 10000.0 per second]
 [17:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1510ms or 15100 ticks behind
 [17:31:50] [Thread-9/INFO]: send keep alive
+[17:33:09] [Server thread/INFO]: Almighty was shot by Skeleton
+[17:33:17] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 20
+[17:33:17] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 20.0 per second]
+[17:33:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 114174ms or 2283 ticks behind
+[17:33:36] [Server thread/INFO]: JhaantukeE issued server command: /difficulty peaceful
+[17:33:36] [Server thread/INFO]: [JhaantukeE: The difficulty has been set to Peaceful]
+[17:33:43] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty
+[17:33:43] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to Almighty]
+[17:33:44] [Server thread/INFO]: hardenn fell from a high place
+[17:35:52] [Thread-9/INFO]: send keep alive
+[17:38:41] [Server thread/INFO]: hardenn has made the advancement [Take Aim]
+[17:39:54] [Thread-9/INFO]: send keep alive
+[17:39:58] [Server thread/INFO]: hardenn issued server command: /op hardenn
