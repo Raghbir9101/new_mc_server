@@ -437,3 +437,5 @@
 [17:23:47] [Thread-9/INFO]: send keep alive
 [17:23:53] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty JhaantukeE
 [17:23:53] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
+[17:27:14] [Server thread/INFO]: Villager EntityVillager['Villager'/295, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[17:27:49] [Thread-9/INFO]: send keep alive
