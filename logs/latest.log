@@ -432,3 +432,5 @@
 [17:17:37] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 20
 [17:17:37] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 20.0 per second]
 [17:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 152431ms or 3048 ticks behind
+[17:19:20] [Server thread/INFO]: Corruptor has made the advancement [Ice Bucket Challenge]
+[17:19:46] [Thread-9/INFO]: send keep alive
