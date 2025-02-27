@@ -429,3 +429,6 @@
 [17:16:16] [Server thread/INFO]: JhaantukeE issued server command: /difficulty peaceful
 [17:16:16] [Server thread/INFO]: [JhaantukeE: The difficulty has been set to Peaceful]
 [17:16:43] [Server thread/INFO]: Corruptor has made the advancement [We Need to Go Deeper]
+[17:17:37] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 20
+[17:17:37] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 20.0 per second]
+[17:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 152431ms or 3048 ticks behind
