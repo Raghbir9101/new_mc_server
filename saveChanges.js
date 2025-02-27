@@ -26,7 +26,7 @@ function runGitCommands() {
                     console.error(`Error Saving Files: ${stderr} ${stdout}`);
                     return;
                 }
-                console.log(`${}`);
+                console.log(`Game Saved Successfully at ${new Date().toDateString()}  `);
             });
         });
     });
