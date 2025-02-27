@@ -23,10 +23,10 @@ function runGitCommands() {
 
             exec("git push --force", (err, stdout, stderr) => {
                 if (err) {
-                    console.error(`Error pushing files: ${stderr} ${stdout}`);
+                    console.error(`Error Saving Files: ${stderr} ${stdout}`);
                     return;
                 }
-                console.log("Files pushed successfully.");
+                console.log(`${}`);
             });
         });
     });
