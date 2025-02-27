@@ -320,3 +320,8 @@
 [13:34:31] [Thread-8/INFO]: send keep alive
 [13:34:55] [Server thread/INFO]: JhaantukeE has made the advancement [War Pigs]
 [13:38:33] [Thread-8/INFO]: send keep alive
+[13:39:49] [Server thread/INFO]: JhaantukeE issued server command: /tp 50 81 -80
+[13:39:49] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to 50.500000, 81.000000, -79.500000]
+[13:42:34] [Thread-8/INFO]: send keep alive
+[13:43:07] [Server thread/INFO]: JhaantukeE issued server command: /tp 85 85 -6
+[13:43:07] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to 85.500000, 85.000000, -5.500000]
