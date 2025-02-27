@@ -482,3 +482,5 @@
 [18:10:31] [Server thread/INFO]: [JhaantukeE: The difficulty has been set to Hard]
 [18:12:01] [Thread-9/INFO]: send keep alive
 [18:16:01] [Thread-9/INFO]: send keep alive
+[18:17:17] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty JhaantukeE
+[18:17:17] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
