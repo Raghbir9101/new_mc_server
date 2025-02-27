@@ -16,7 +16,7 @@ function runGitCommands() {
 
         exec(`git commit -m ${commitMessage}`, (err, stdout, stderr) => {
             if (err) {
-                console.error(`Error committing files: ${stderr} ${stdout}`);
+                console.error(`Error committing files: ${stderr} ${stdout} err`);
                 return;
             }
             console.log("Files committed successfully.");
