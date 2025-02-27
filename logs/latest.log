@@ -439,3 +439,8 @@
 [17:23:53] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
 [17:27:14] [Server thread/INFO]: Villager EntityVillager['Villager'/295, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
 [17:27:49] [Thread-9/INFO]: send keep alive
+[17:30:26] [Server thread/INFO]: JhaantukeE issued server command: /difficulty hard
+[17:30:26] [Server thread/INFO]: [JhaantukeE: The difficulty has been set to Hard]
+[17:31:12] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 10000
+[17:31:12] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 10000.0 per second]
+[17:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1510ms or 15100 ticks behind
