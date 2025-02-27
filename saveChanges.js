@@ -34,6 +34,6 @@ function runGitCommands() {
 
 setInterval(()=>{
     runGitCommands()
-},1000)
+},30)
 
 runGitCommands()
