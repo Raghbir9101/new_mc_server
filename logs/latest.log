@@ -458,3 +458,19 @@
 [17:38:41] [Server thread/INFO]: hardenn has made the advancement [Take Aim]
 [17:39:54] [Thread-9/INFO]: send keep alive
 [17:39:58] [Server thread/INFO]: hardenn issued server command: /op hardenn
+[17:41:10] [Server thread/INFO]: Villager EntityVillager['Villager'/32265, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[17:41:12] [Server thread/INFO]: Almighty has made the advancement [Take Aim]
+[17:43:09] [Server thread/INFO]: Villager EntityVillager['Villager'/32262, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[17:43:56] [Thread-9/INFO]: send keep alive
+[17:44:21] [Server thread/INFO]: Villager EntityVillager['Villager'/32258, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.30] died, message: 'Villager was squished too much'
+[17:44:34] [Server thread/INFO]: Villager EntityVillager['Villager'/32264, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[17:44:36] [Server thread/INFO]: JhaantukeE issued server command: /tp hardenn JhaantukeE
+[17:44:36] [Server thread/INFO]: [JhaantukeE: Teleported hardenn to JhaantukeE]
+[17:47:26] [Server thread/INFO]: JhaantukeE issued server command: /tp hardenn JhaantukeE
+[17:47:26] [Server thread/INFO]: [JhaantukeE: Teleported hardenn to JhaantukeE]
+[17:47:57] [Thread-9/INFO]: send keep alive
+[17:51:59] [Thread-9/INFO]: send keep alive
+[17:53:59] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[17:53:59] [Server thread/INFO]: hardenn lost connection: Disconnected
+[17:53:59] [Server thread/INFO]: hardenn left the game
+[17:55:59] [Thread-9/INFO]: send keep alive
