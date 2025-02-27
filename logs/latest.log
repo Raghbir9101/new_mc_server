@@ -386,3 +386,6 @@
 [13:48:04] [Server thread/INFO]: JhaantukeE joined the game
 [13:48:04] [Server thread/INFO]: JhaantukeE[/127.0.0.1:35146] logged in with entity id 20418 at ([world]643.3799580654354, 196.0, 84.77062590287798)
 [13:50:37] [Thread-8/INFO]: send keep alive
+[13:52:44] [Server thread/INFO]: JhaantukeE issued server command: /tp 272 ~ 208
+[13:52:44] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to 272.500000, 53.000000, 208.500000]
+[13:53:28] [Server thread/INFO]: JhaantukeE issued server command: /difficulty peaceful
