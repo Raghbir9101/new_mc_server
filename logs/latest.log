@@ -484,3 +484,23 @@
 [14:06:35] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
 [14:06:35] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [14:06:35] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[14:06:44] [Thread-8/INFO]: send keep alive
+[14:10:39] [Server thread/INFO]: JhaantukeE issued server command: /difficulty hard
+[14:10:45] [Thread-8/INFO]: send keep alive
+[14:11:27] [Server thread/INFO]: JhaantukeE issued server command: /difficulty normal
+[14:11:27] [Server thread/INFO]: [JhaantukeE: The difficulty has been set to Normal]
+[14:12:55] [Server thread/INFO]: JhaantukeE issued server command: /tp 363 ~ -373
+[14:12:55] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to 363.500000, 53.000000, -372.500000]
+[14:12:59] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[14:12:59] [Server thread/INFO]: JhaantukeE lost connection: Disconnected
+[14:12:59] [Server thread/INFO]: JhaantukeE left the game
+[14:12:59] [Thread-8/INFO]: got new client: NewClient{connectAddr=147.185.221.194:40935, peerAddr=49.37.110.125:51444, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -97, -25, 49, 37, 110, 125, -56, -12, -76, 61, -52, -64, -85, 8, 103, -64, 114, -21, 0, 0, 0, 0, 0, 15, -79, 67, 0, 0, 0, 0, 0, 61, -14, 82, 26, -64, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 13, 10, 80, -81, 11, 37, 83, -128, 96, -20, -38, -123, 24, -117, 60, -81], tunnelServerId=1, dataCenterId=28}
+[14:12:59] [Thread-8/INFO]: starting tcp tunnel for client
+[14:12:59] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[14:12:59] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[14:12:59] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[14:12:59] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[14:12:59] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[14:12:59] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[14:12:59] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[14:12:59] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
