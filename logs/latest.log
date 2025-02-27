@@ -418,3 +418,11 @@
 [17:11:45] [Thread-9/INFO]: send keep alive
 [17:11:51] [Server thread/INFO]: hardenn has made the advancement [We Need to Go Deeper]
 [17:12:46] [Server thread/INFO]: Villager EntityVillager['Villager'/313, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[17:13:07] [Server thread/INFO]: Villager EntityVillager['Villager'/300, l='ServerLevel[world]', x=761.70, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[17:13:40] [Server thread/INFO]: Villager EntityVillager['Villager'/296, l='ServerLevel[world]', x=761.30, y=56.00, z=-103.70] died, message: 'Villager was squished too much'
+[17:14:38] [Server thread/INFO]: JhaantukeE issued server command: /difficulty hard
+[17:14:43] [Server thread/INFO]: hardenn has made the advancement [Monster Hunter]
+[17:14:53] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 10000
+[17:14:53] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 10000.0 per second]
+[17:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1521ms or 15217 ticks behind
+[17:15:45] [Thread-9/INFO]: send keep alive
