@@ -22,7 +22,7 @@ function runGitCommands() {
       console.log("Files committed successfully.");
 
       exec(
-        "git push --force --set-upstream origin draft/main",
+        "git push --force --set-upstream origin main",
         (err, stdout, stderr) => {
           if (err) {
             console.error(`Error Saving Files: ${stderr} ${stdout} ${err}`);
