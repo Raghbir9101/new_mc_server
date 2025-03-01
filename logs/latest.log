@@ -391,3 +391,4 @@ Caused by: java.net.UnknownHostException: vypqv2: Name or service not known
 [17:05:29] [nioEventLoopGroup-2-2/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [17:05:29] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [17:05:32] [Thread-6/INFO]: send keep alive
+[17:07:19] [Thread-0/INFO]: Stopping server
