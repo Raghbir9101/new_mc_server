@@ -21,18 +21,21 @@ function runGitCommands() {
       }
       console.log("Files committed successfully.");
 
-      exec("git push --force", (err, stdout, stderr) => {
-        if (err) {
-          console.error(`Error Saving Files: ${stderr} ${stdout} ${err}`);
-          return;
+      exec(
+        "git push --force --set-upstream origin draft/amazing-chaplygin",
+        (err, stdout, stderr) => {
+          if (err) {
+            console.error(`Error Saving Files: ${stderr} ${stdout} ${err}`);
+            return;
+          }
+          console.log(err, stdout, stderr);
+          console.log(
+            `Game Saved Successfully at ${new Date().toLocaleDateString(
+              "in"
+            )} ${new Date().toLocaleTimeString("in")} `
+          );
         }
-        console.log(err, stdout, stderr);
-        console.log(
-          `Game Saved Successfully at ${new Date().toLocaleDateString(
-            "in"
-          )} ${new Date().toLocaleTimeString("in")} `
-        );
-      });
+      );
     });
   });
 }
@@ -40,4 +43,5 @@ function runGitCommands() {
 setTimeout(() => {
   runGitCommands();
 }, 30000);
+
 runGitCommands();
