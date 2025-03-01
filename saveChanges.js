@@ -22,7 +22,7 @@ function runGitCommands() {
       console.log("Files committed successfully.");
 
       exec(
-        "git push --force --set-upstream origin draft/amazing-chaplygin",
+        "git push --force --set-upstream origin draft/main",
         (err, stdout, stderr) => {
           if (err) {
             console.error(`Error Saving Files: ${stderr} ${stdout} ${err}`);
