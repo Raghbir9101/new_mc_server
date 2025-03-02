@@ -10,13 +10,15 @@ function saveChanges() {
     });
 }
 
+const SAVE_FREQUENCY = 60; // IN SECs
+
 // Run every 5 minutes
-setInterval(saveChanges, 60 * 1000);
+setInterval(saveChanges, SAVE_FREQUENCY * 1000);
 
 // Run immediately on start
 saveChanges();
 
-exec("java -Xmx10G -Xms10G -jar server.jar nogui", (err, stdout, stderr) => {
+exec("java -Xmx2G -Xms2G -jar server.jar nogui", (err, stdout, stderr) => {
     if (err) {
         console.error(`Error adding files: ${stderr}`);
         return;
