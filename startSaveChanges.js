@@ -20,7 +20,7 @@ saveChanges();
 
 exec("java -Xmx2G -Xms2G -jar server.jar nogui", (err, stdout, stderr) => {
     if (err) {
-        console.error(`Error adding files: ${stderr}`);
+        console.error(`Error starting server: ${stderr}`);
         return;
     }
     console.log("Starting Minecraft server", stdout);
