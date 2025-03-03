@@ -18,10 +18,10 @@ setInterval(saveChanges, SAVE_FREQUENCY * 1000);
 // Run immediately on start
 saveChanges();
 
-exec("java -Xmx2G -Xms2G -jar server.jar nogui", (err, stdout, stderr) => {
-    if (err) {
-        console.error(`Error starting server: ${stderr}`);
-        return;
-    }
-    console.log("Starting Minecraft server", stdout);
-})
+// exec("java -Xmx2G -Xms2G -jar server.jar nogui", (err, stdout, stderr) => {
+//     if (err) {
+//         console.error(`Error starting server: ${stderr}`);
+//         return;
+//     }
+//     console.log("Starting Minecraft server", stdout);
+// })
