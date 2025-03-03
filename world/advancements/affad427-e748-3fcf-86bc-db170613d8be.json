@@ -16,6 +16,7 @@
       "minecraft:stony_shore": "2025-02-22 12:22:53 +0530",
       "minecraft:snowy_plains": "2025-02-22 12:22:51 +0530",
       "minecraft:snowy_taiga": "2025-03-02 16:40:46 +0530",
+      "minecraft:deep_cold_ocean": "2025-03-03 15:35:17 +0530",
       "minecraft:ice_spikes": "2025-03-02 16:37:41 +0530",
       "minecraft:frozen_ocean": "2025-02-22 12:23:04 +0530",
       "minecraft:frozen_river": "2025-03-02 16:35:15 +0530",
@@ -2157,51 +2158,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-03-02 15:32:44 +0530"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-03-02 15:33:42 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_kelp": "2025-03-02 18:06:10 +0530"
+      "has_obsidian": "2025-03-02 15:33:42 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_kelp": "2025-03-02 18:06:10 +0530"
+      "has_logs": "2025-03-02 15:47:19 +0530"
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-03-02 17:22:24 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-03-02 16:38:38 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-03-02 16:08:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-03-02 16:31:31 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-03-02 18:06:10 +0530"
+      "has_log": "2025-03-02 15:47:19 +0530"
     },
     "done": true
   },
@@ -2211,21 +2194,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_sugar_cane": "2025-03-02 16:25:04 +0530"
+      "has_bone_meal": "2025-03-02 15:48:45 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_planks": "2025-03-02 16:39:39 +0530"
+      "has_wheat": "2025-03-02 15:49:28 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_obsidian": "2025-03-02 15:33:42 +0530"
+      "has_wheat": "2025-03-02 15:49:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-03-02 16:06:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-02 16:08:22 +0530"
     },
     "done": true
   },
@@ -2241,15 +2236,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "has_snowball": "2025-03-02 16:39:54 +0530"
+      "has_sugar_cane": "2025-03-02 16:25:04 +0530"
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "cured_zombie": "2025-03-02 16:06:43 +0530"
+      "has_reeds": "2025-03-02 16:25:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-02 16:25:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-03-02 16:29:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-02 16:31:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-02 16:31:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-02 16:38:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-02 16:39:39 +0530"
     },
     "done": true
   },
@@ -2265,18 +2296,6 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-03-02 16:29:31 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-03-02 15:32:44 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-03-02 16:39:39 +0530"
@@ -2289,63 +2308,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-03-02 15:47:19 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-03-02 16:31:31 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-03-02 15:49:28 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-03-02 16:39:39 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-03-02 15:49:28 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-03-02 16:25:04 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-03-02 15:47:19 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-03-02 16:39:39 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-03-02 16:39:54 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-03-02 16:25:04 +0530"
     },
     "done": true
   },
@@ -2361,9 +2332,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_bone_meal": "2025-03-02 15:48:45 +0530"
+      "has_snowball": "2025-03-02 16:39:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-02 16:39:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-03-02 17:22:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-02 18:06:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-02 18:06:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-02 18:06:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-03 15:31:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-03 15:45:47 +0530"
     },
     "done": true
   },
